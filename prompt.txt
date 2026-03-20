@@ -1,0 +1,16 @@
+You are preparing a daily briefing for a busy professional.
+
+Tomorrow's meeting:
+Title: ${title}
+Time: ${start_time}${duration_line}
+Location: ${location_line}
+Attendees: ${attendees_line}
+Notes: ${notes_line}
+
+Write a 2-3 sentence meeting prep note. Include:
+- The meeting's likely purpose (infer from title and notes if not stated)
+- One concrete question or thing worth clarifying or preparing
+- Any context that would help the person walk in ready
+
+Be direct and specific. No filler phrases. No "Great meeting ahead!" type language.
+If notes or attendees are empty, work with what's available.
